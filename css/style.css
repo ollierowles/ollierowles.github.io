@@ -4,7 +4,6 @@ Version:    1.3
 Last change:    13/12/2014 [fixed Float bug, vf]
 Author: themesmile
 -------------------------------------------------------------------*/
-
 body {
     overflow-x: hidden;
     font: normal 16px/30px "Open Sans", Helvetica, Arial, sans-serif;
@@ -37,7 +36,7 @@ p.small {
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Raleway', sans-serif;
     font-weight: 700;
-    color: #22272A;
+    color: #212b3172A;
 }
 small, .small {
     font-size: 65%!important;
@@ -86,7 +85,7 @@ hr.star-primary:after {
     text-decoration: none!important;
 }
 .color-orange {
-    color: #1abc9c!important;
+    color: #36454F!important;
 }
 .color-black {
     color: #111!important;
@@ -95,13 +94,13 @@ hr.star-primary:after {
     color: #2E3639!important;
 }
 .color-yellow {
-    color: #1abc9c!important;
+    color: #36454F!important;
 }
 .no-border {
     border-radius: 0!important;
 }
 .border-yellow {
-    border-color: #1abc9c!important;
+    border-color: #36454F!important;
 }
 .border-white {
     border-color: #FFF!important;
@@ -129,9 +128,9 @@ hr.star-primary:after {
     border-color: #ECA928!important;
 }
 .bg-green {
-    background: #1abc9c!important;
+    background: #36454F!important;
     color: #ffffff!important;
-    border-color: #1abc9c!important;
+    border-color: #36454F!important;
 }
 .bg-aspalt {
     background: #2c3e50!important;
@@ -139,9 +138,9 @@ hr.star-primary:after {
     border-color: #2c3e50!important;
 }
 .bg-blue {
-    background: #1abc9c!important;
+    background: #36454F!important;
     color: #ffffff!important;
-    border-color: #1abc9c!important;
+    border-color: #36454F!important;
 }
 .bg-purple {
     background: #8e44ad!important;
@@ -159,7 +158,7 @@ hr.star-primary:after {
     border-color: #e3536e!important;
 }
 .text-title {
-    color: #1abc9c;
+    color: #36454F;
 }
 .panel-pink {
     border-color: #e3536e;
@@ -177,9 +176,9 @@ hr.star-primary:after {
     font-size: 2.8em!important;
     font-weight: 100!important;
     text-transform: capitalize!important;
-    color: #222!important;
+    color: #212b31!important;
     position: relative;
-    font-family: 'Mrs Sheppards', cursive!important;
+    font-family: 'Courier New';
     right: -25px;
 }
 .navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
@@ -207,7 +206,7 @@ li.devider-nav {
     background: #fff;
 }
 .handle {
-    background: #222;
+    background: #212b31;
     text-indent: 0!important;
     color: #fff!important;
     line-height: 28px;
@@ -386,7 +385,7 @@ section .ray-bottom {
     margin: 0;
     text-transform: uppercase;
     font-weight: 100;
-    /*border-left: 28px solid #1abc9c;*/
+    /*border-left: 28px solid #36454F;*/
 
     padding: 0;
     font: 24px/45px Raleway, "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -394,7 +393,7 @@ section .ray-bottom {
     /* padding: 0; */
 }
 .resume-content h3 span {
-    background: #222222;
+    background: #212b31222;
     color: #fff;
     padding: 2px 8px;
     text-align: center;
@@ -420,7 +419,7 @@ section .ray-bottom {
     padding: 10px 21px;
     /* border: 4px solid #fff; */
 
-    background: #1abc9c;
+    background: #36454F;
     color: #fff;
 }
 .intro-text h4 span {
@@ -596,7 +595,7 @@ form .row:first-child .floating-label-form-group {
     font-size: 15px;
     line-height: 40px;
     background: rgba(255, 255, 255, 1);
-    color: #1abc9c!important;
+    color: #36454F!important;
 }
 .btn:focus, .btn:active, .btn.active {
     outline: 0;
@@ -759,7 +758,7 @@ form .row:first-child .floating-label-form-group {
     padding: 5px 20px;
     position: relative;
     margin-top: -68px;
-    border: 4px solid #1abc9c;
+    border: 4px solid #36454F;
 }
 .title-overview h2:before {
     width: 125px;
@@ -832,14 +831,14 @@ form .row:first-child .floating-label-form-group {
     background-color: transparent;
 }
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
-    color: #222 !important;
+    color: #212b31 !important;
     background-color: #FFF !important;
     border-radius: 0px;
     font-weight: 700;
     margin: -9px 0px 0px;
     height: 81px;
     line-height: 40px;
-    border-bottom: 5px solid #222;
+    border-bottom: 5px solid #212b31;
 }
 .carousel-caption {
     font-family: 'Roboto', sans-serif!important;
@@ -897,7 +896,7 @@ footer h3 {
 }
 .footer-above {
     padding: 70px 4%;
-    background-color: #1abc9c;
+    background-color: #36454F;
     z-index: 0;
     overflow: hidden;
     position: relative;
@@ -933,7 +932,7 @@ footer .footer-col {
     border-radius: 0;
 }
 .nest-address {
-    background: #1abc9c;
+    background: #36454F;
     padding: 20px;
 }
 ::-webkit-input-placeholder {
@@ -1026,7 +1025,7 @@ ABOUT ME
     color: #ffffff;
 }
 .e-campuz {
-    background: #1abc9c;
+    background: #36454F;
     color: #ffffff!important;
     z-index: 0;
     overflow: hidden;
@@ -1098,7 +1097,7 @@ ABOUT ME
     height: 0;
     border-left: 40px solid transparent;
     border-right: 40px solid transparent;
-    border-top: 50px solid #1abc9c;
+    border-top: 50px solid #36454F;
     position: absolute;
     top: 0;
     left: 10%;
@@ -1403,7 +1402,7 @@ PORTFOLIO
     .arrow-down {
         border-left: 23px solid transparent;
         border-right: 23px solid transparent;
-        border-top: 30px solid #1abc9c;
+        border-top: 30px solid #36454F;
     }
     .about-nest h2 {
         font-weight: 100;
@@ -1425,7 +1424,7 @@ PORTFOLIO
     }
     .intro-text h1 span {
         padding: 10px 21px;
-        background: #1abc9c;
+        background: #36454F;
         color: #fff;
         font-size: 25px;
         display: block;
@@ -1460,12 +1459,12 @@ PORTFOLIO
         padding: 0px!important;
     }
     .navbar-toggle {
-        background: #222!important;
-        border-color: #222!important;
+        background: #212b31!important;
+        border-color: #212b31!important;
     }
     .navbar-default .navbar-collapse, .navbar-default .navbar-form {
         border-color: transparent;
-        background: #222!important;
+        background: #212b31!important;
         padding: 0 15px!important;
     }
     .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
@@ -1586,7 +1585,7 @@ PORTFOLIO
         display: none!important;
     }
     .navbar-right {
-        background: #222;
+        background: #212b31;
         width: 100%;
         position: fixed;
         margin: 0 -15px 0;
